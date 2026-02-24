@@ -1,16 +1,21 @@
 # Классификация токсичных комментариев для интернет-магазина «Викишоп»
 
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.26-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-11557c?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4c72b0?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-1.2-ff4b4b?logo=catboost&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3.8-154f5c?logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-4.44-FFD21E?logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.4-EE4C2C?logo=pytorch&logoColor=white)
-![Imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-0.12-1676c7?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2.4.2-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3.0.1-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.0-11557c?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-4c72b0?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8.0-F7931E?logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-1.2.8-ff4b4b?logo=catboost&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3.9.1-154f5c?logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-4.44.2-FFD21E?logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2-EE4C2C?logo=pytorch&logoColor=white)
+![Imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-0.14.1-1676c7?logo=python&logoColor=white)
+![tqdm](https://img.shields.io/badge/tqdm-4.67.3-FF6F61?logo=python&logoColor=white)
+
+## Описание проекта
+
+Интернет‑магазин «Викишоп» внедряет вики‑систему для совместного редактирования описаний товаров. Чтобы поддерживать конструктивную среду и оперативно реагировать на нарушения, необходимо автоматически определять токсичные комментарии (правки) и отправлять их на модерацию. В проекте разрабатывается модель машинного обучения, способная отличать токси
 
 ## Описание проекта
 
