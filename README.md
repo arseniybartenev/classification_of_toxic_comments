@@ -126,7 +126,7 @@
 
 ```
 classification_of_toxic_comments/
-├── data/                              # Папка для данных (не включена в репозиторий)
+├── data/                              # Папка для данных
 │   └── toxic_comments.csv
 ├── notebooks/                         # Jupyter ноутбук с полным анализом
 │   └── classification_of_toxic_comments.ipynb
