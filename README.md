@@ -106,11 +106,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/arseniybartenev/wikishop-toxic-comments-classification.git
+   git clone https://github.com/arseniybartenev/classification_of_toxic_comments.git
    ```
 2. Перейдите в папку проекта:
    ```bash
-   cd wikishop-toxic-comments-classification
+   cd classification_of_toxic_comments
    ```
 3. Установите зависимости:
    ```bash
